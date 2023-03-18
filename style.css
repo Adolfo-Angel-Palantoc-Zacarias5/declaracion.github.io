@@ -1,0 +1,44 @@
+.bg{
+    background-color: mediumorchid;
+}
+h1{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.imagen{
+    margin: auto;
+    display: block;
+}
+
+/* .contenedorsi{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+} */
+
+#btnsi{
+    width: 40;
+    height: 50;
+    background: blue;
+    color: white;
+}
+
+#btno{
+    width: 40;
+    height: 50;
+    background: red;
+    color: white;
+}
+
+button{
+    font-size:10px;
+    border:0px;
+    width:80px;
+    height:40px;
+}
+
+div{
+    text-align: center;
+    font-size: 20px;
+}
